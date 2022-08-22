@@ -3,9 +3,13 @@
 <div align="center">
 <img width="60" alt="js" src="https://user-images.githubusercontent.com/58536602/185842413-7368639a-06ad-4cbf-8d3b-3cec0caf8aec.png" />
 
-# JunSeong's creative work
+<p style="font-size:200%">JunSeong's creative works</p>
 
 </div>
+
+<br/>
+
+#
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" styled="margin: 0-auto;">
@@ -16,7 +20,8 @@
 <p>
 <img src="https://img.shields.io/badge/{Rest API}-666666?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/mqtt.js-666666?style=for-the-badge&logo=&logoColor=white">
-
+</p>
+<p>
 <img src="https://img.shields.io/badge/HTML5-dddddd?style=for-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-dddddd?style=for-the-badge&logo=HTML5&logoColor=1572B6">
 <img src="https://img.shields.io/badge/Tailwind CSS-dddddd?style=for-the-badge&logo=Tailwind CSS&logoColor=06B6D4">
