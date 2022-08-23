@@ -67,8 +67,8 @@ JunSeong Lee
 ### <p align="center"> 🔗 Link </p>
 
 <div align="center">
-  <a href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" style="display: flex; align-items: center; space-x: 10; justify-content: center; text-decoration: none; color: black; font-size: 20px; width: 100px;" target="blank">
-  <img src="https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png" />
+  <a class="link" href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" target="blank">
+  <img src="https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png" width="40"/>
     <span>&nbsp;Notion</span>
   </a>
 </div>
@@ -76,17 +76,16 @@ JunSeong Lee
 
 #
 
-<table style="border:0;">
-  <tr>
-    <td>
+<div class="flexBox">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelow&layout=compact)](https://github.com/purplelow/github-readme-stats)
-    </td>
-    <td>
+   
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplelow)](https://github.com/anuraghazra/github-readme-stats)
-    </tr>
-  </td>
-</table>
+</div>
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/****) -->
+<style type="text/css">
+  [class="flexBox"]{display: flex; align-items: center; justify-content: center;}
+  [class="link"]{display: flex; align-items: center; justify-content: center; text-decoration: none; color: black; font-size: 20px;}
+</style>
