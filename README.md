@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="readme.css">
 <div align="center">
-  <img width="40" alt="js" src="https://user-images.githubusercontent.com/58536602/185842413-7368639a-06ad-4cbf-8d3b-3cec0caf8aec.png" />
+  <img width="70" alt="js" src="https://user-images.githubusercontent.com/58536602/185842413-7368639a-06ad-4cbf-8d3b-3cec0caf8aec.png" />
 
 <!-- ## <p style="font-size:">JunSeong's Creative Projects</p> -->
 
+<br />
 <br />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JS%20Creation&animation=twinkling&fontSize=50&fontAlignY=25&desc=JunSeong's%20Creative%20Projects&descSize=20&descAlignY=50)
