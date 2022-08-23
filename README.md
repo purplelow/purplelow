@@ -58,7 +58,7 @@ JunSeong Lee
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black" styled="margin: 0-auto;">
 </p>
 
-<!-- <div style="display: flex; align-items: center; space-x: 10;">
+<!-- <div style="display: flex; align-items: center;">
 </div> -->
 <br />
 
@@ -75,18 +75,13 @@ JunSeong Lee
 <br />
 
 #
+<div style="display: flex; align-items: center;">
 
-<table border="0">
-  <tr>
-    <td>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelow&layout=compact)](https://github.com/****/github-readme-stats)
-    </td>
-    <td>
+  
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplelow)](https://github.com/anuraghazra/github-readme-stats)
-    </tr>
-  </td>
-</table>
 
+</div>
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/****) -->
