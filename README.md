@@ -6,7 +6,7 @@
 
 <br />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JS%20Creation&fontSize=50&fontAlignY=25&desc=JunSeong's%20Creative%20Projects&descSize=20&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JS%20Creation&animation=twinkling&fontSize=50&fontAlignY=25&desc=JunSeong's%20Creative%20Projects&descSize=20&descAlignY=50)
 
 </div>
 
@@ -68,10 +68,27 @@ JunSeong Lee
 ### <p align="center"> 🔗 Link </p>
 
 <div align="center">
-  <a class="link" href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" target="blank">
+  <a class="link" href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" target="_blank" align="center">
   <img src="https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png" width="40"/>
-    <span>&nbsp;Notion</span>
   </a>
+
+  _Notion_
+  <br/>
+  
+  <a class="link" href="https://velog.io/@purplelow" target="_blank">
+  <img src="https://user-images.githubusercontent.com/58536602/186073324-7da3afdf-1fbf-45f5-9a41-16217370f527.png" width="40"/>
+  <!-- <span>&nbsp;Notion</span> -->
+  </a>
+
+  _Velog_
+  <br/>
+
+  <a class="link" href="http://jscreation.co.kr/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/58536602/185842413-7368639a-06ad-4cbf-8d3b-3cec0caf8aec.png" width="40"/>
+  <!-- <span>&nbsp;Notion</span> -->
+  </a>
+  
+  _WebSite_
 </div>
 <br />
 
