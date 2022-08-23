@@ -1,7 +1,9 @@
-<style type="text/css">
+<!-- <style type="text/css">
   [class="flexBox"]{display: flex; align-items: center; justify-content: center;}
   [class="link"]{display: flex; align-items: center; justify-content: center; text-decoration: none; color: black; font-size: 20px;}
-</style>
+</style> -->
+
+https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css
 
 <div align="center">
   <img width="40" alt="js" src="https://user-images.githubusercontent.com/58536602/185842413-7368639a-06ad-4cbf-8d3b-3cec0caf8aec.png" />
