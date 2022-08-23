@@ -20,7 +20,7 @@ JunSeong Lee
 
 #
 
-### <p align="center"> 🛠 Teck stack </p>
+### <p align="center"> 🛠 Skill + Tool</p>
 
 <br />
 <p>
