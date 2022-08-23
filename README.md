@@ -68,7 +68,7 @@ JunSeong Lee
 
 <div align="center">
   <a href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" style="display: flex; align-items: center; space-x: 10; justify-content: center; text-decoration: none; color: black; font-size: 20px; width: 100px;" target="blank">
-  ![ico_notion](https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png)
+  <img src="https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png" />
     <span>&nbsp;Notion</span>
   </a>
 </div>
