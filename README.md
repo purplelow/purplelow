@@ -58,7 +58,7 @@ JunSeong Lee
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black" styled="margin: 0-auto;">
 </p>
 
-<!-- <div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center; space-x: 10;">
 </div> -->
 <br />
 
@@ -67,21 +67,26 @@ JunSeong Lee
 ### <p align="center"> 🔗 Link </p>
 
 <div align="center">
-  <a href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" style="display: flex; align-items: center; space-x: 10; justify-content: center; text-decoration: none; color: black; font-size: 20px; width: 100px;" >
-    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=Notion&logoColor=000000">
+  <a href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" style="display: flex; align-items: center; space-x: 10; justify-content: center; text-decoration: none; color: black; font-size: 20px; width: 100px;" target="blank">
+  ![ico_notion](https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png)
     <span>&nbsp;Notion</span>
   </a>
 </div>
 <br />
 
 #
-<div style="display: flex; align-items: center;">
 
+<table style="border:0;">
+  <tr>
+    <td>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelow&layout=compact)](https://github.com/****/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelow&layout=compact)](https://github.com/purplelow/github-readme-stats)
+    </td>
+    <td>
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplelow)](https://github.com/anuraghazra/github-readme-stats)
+    </tr>
+  </td>
+</table>
 
-</div>
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/****) -->
