@@ -73,16 +73,16 @@ JunSeong Lee
   <img src="https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png" width="40"/>
   </a>
 
-  _Notion_
-  <br/>
-  
+_Notion_
+<br/>
+
   <a class="link" href="https://velog.io/@purplelow" target="_blank">
   <img src="https://user-images.githubusercontent.com/58536602/186073324-7da3afdf-1fbf-45f5-9a41-16217370f527.png" width="40"/>
   <!-- <span>&nbsp;Notion</span> -->
   </a>
 
-  _Velog_
-  <br/>
+_Velog_
+<br/>
 
   <a class="link" href="http://jscreation.co.kr/" target="_blank">
   <img src="https://user-images.githubusercontent.com/58536602/185842413-7368639a-06ad-4cbf-8d3b-3cec0caf8aec.png" width="40"/>
@@ -97,10 +97,10 @@ JunSeong Lee
 
 <div class="flexBox">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelow&layout=compact)](https://github.com/purplelow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelow&layout=compact&bg_color=2BC0E4,b6fbff,EAECC6)](https://github.com/purplelow/github-readme-stats)
    
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplelow)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplelow&bg_color=2BC0E4,b6fbff,EAECC6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/****) -->
