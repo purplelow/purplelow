@@ -69,7 +69,7 @@ JunSeong Lee
 ### <p align="center"> 🔗 Link </p>
 
 <div align="center">
-  <a class="link" href="https://spectacular-epoch-b6f.notion.site/99f897ceee20425085278d86745c275f" target="_blank" align="center">
+  <a class="link" href="https://spectacular-epoch-b6f.notion.site/Junseong-53462cd7b12d4f3fa3128640ccc0fc44" target="_blank" align="center">
   <img src="https://user-images.githubusercontent.com/58536602/186061463-59a43438-70f4-4346-9042-84fdcb8c092a.png" width="40"/>
   </a>
 
