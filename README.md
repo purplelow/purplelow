@@ -25,6 +25,7 @@ JunSeong Lee
 <br /><br />
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /></div>
+<!-- 출처 : https://velog.io/@qkrdmstlr3 -->
 
 <br /><br />
 
